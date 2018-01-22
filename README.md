@@ -31,4 +31,4 @@
 Опубликован|2004-03-19
 Сайт|https://daringfireball.net/projects/markdown/
 #### 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Markdown_Syntax_in_gedit.png/800px-Markdown_Syntax_in_gedit.png)
