@@ -30,3 +30,4 @@
 Разработчик|Джон Грубер
 Опубликован|2004-03-19
 Сайт|https://daringfireball.net/projects/markdown/
+#### ![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
